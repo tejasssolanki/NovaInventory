@@ -1,28 +1,27 @@
 # 📦 NovaInventory
 
-A Java-based console application for managing store inventory and generating customer bills. The system allows users to manage products, maintain stock, generate bills with GST calculation, and save inventory records to CSV files.
+A Java-based Inventory and Billing System built using Object-Oriented Programming concepts.
 
-## ✨ Features
+## Features
 
-- Add New Items
+- Add Inventory Items
+- Search Items
+- Delete Items
 - View All Items
-- Search Item by ID
-- Delete Item
 - Generate Customer Bills
-- GST Calculation
-- Save Inventory to CSV
-- Menu-Driven Console Interface
+- CSV Data Storage
+- Menu Driven CLI
 
-## 🛠 Technologies Used
+## Technologies
 
 - Java
-- Object-Oriented Programming (OOP)
-- Collections (ArrayList)
-- File Handling (CSV)
+- OOP
+- Collections
+- File Handling
 - IntelliJ IDEA
-- Git & GitHub
+- Git
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 app
@@ -32,6 +31,13 @@ service
 util
 ```
 
-## 👨‍💻 Author
+## Future Improvements
 
-**Tejas Solanki**
+- JavaFX GUI
+- Database Integration (MySQL)
+- Login System
+- Sales Dashboard
+
+## Author
+
+Tejas Solanki
